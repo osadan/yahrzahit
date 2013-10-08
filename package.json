@@ -1,0 +1,13 @@
+{
+	"name" : "yarzhait",
+	"version" : "0.0.1",
+	"description" : "mange your memorial dates",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/osadan/yarzhait"
+	},
+	"dependencies":{
+		"restify" : "*",
+		"nodemon" : "*"
+	}
+}
